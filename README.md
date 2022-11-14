@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![](	https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/R-Language-5800FF?style=for-the-badge&logo=R&logoColor=white)
+![]()
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepparekh29&show_icons=true&locale=en&layout=compact" alt="deepparekh29" /></p>
@@ -26,7 +27,9 @@
  
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+ <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-700x700.jpg"  width="40" height="40"/> </a>
+ </p>
  
 
 <p>&nbsp;<img align="RIGHT" src="https://github-readme-stats.vercel.app/api?username=deepparekh29&show_icons=true&locale=en" alt="deepparekh29" /></p>
